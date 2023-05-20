@@ -43,11 +43,3 @@ if current_mac == options.address:
     print("[+] MAC address was successfully changed to " + current_mac)
 else:
     print("[-] MAC address didn't changed.")
-
-
-
-
-
-
-
-

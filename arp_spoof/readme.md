@@ -6,3 +6,4 @@
 6. run command (e.g: python arp_spoof.py) <br>
 <br>
 Use --help for help or view other option
+Note: For packet to pass use command : echo 1 > /proc/sys/net/ipv4/ip_forward
